@@ -8,3 +8,7 @@ Femifox will attempt to restore support for:
 - Windows 98/98SE/Me
 - Windows NT 4.0
 - Windows 95
+
+Features that could be possible in the future:
+- Native titlebars on Windows 10 and higher
+- Support for Windows 3.x
