@@ -11,4 +11,4 @@ Femifox will attempt to restore support for:
 
 Features that could be possible in the future:
 - Native titlebars on Windows 10 and higher
-- Support for Windows 3.x
+- Support for Windows 3.1x
